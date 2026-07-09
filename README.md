@@ -1,8 +1,8 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="utf-8">
- <title>花畑の朝</title>
+  <title>花畑の朝</title>
 </head>
 <body> 
  
